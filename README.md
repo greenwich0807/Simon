@@ -62,6 +62,7 @@
 5.  打开一个 Pull Request。
 
 请阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 了解详细的贡献指南。
+【目前暂无】
 
 ## 📄 许可证
 
